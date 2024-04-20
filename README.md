@@ -153,3 +153,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [System Design Interview](https://www.youtube.com/@SystemDesignInterview)
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
+
+
+## System design casestudy (newsletter)
+- [System Design Blogs](https://newsletter.systemdesign.one/archive?sort=new)
